@@ -427,6 +427,9 @@ body {
    .library {
       height: 70vh;
    }
+.songlist {
+   height: 460px;
+}
 
 }
 
